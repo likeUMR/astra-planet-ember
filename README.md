@@ -2,6 +2,10 @@
 
 一颗纯代码生成的橙色圆球，用于验证第二个独立仓库的接入和星际旅行。
 
+开始创作前，请读 [人类简明指南](https://github.com/likeUMR/astra-universe/blob/main/CONTRIBUTING.md)；
+使用 AI 时提供 [AI 详细规范](https://github.com/likeUMR/astra-universe/blob/main/docs/AI_AUTHORING.md)。
+星空和全局光照由主站提供；自己的几何和局部特效留在 2R 领地内，Shader 不接管全局渲染。
+
 - 协议：`astra-planet/0.1`
 - 入口：`planet.js`
 - 无额外依赖、网络、模型或图片。
